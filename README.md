@@ -1,4 +1,4 @@
-[PT-BR]
+**[PT-BR]**
 
 👋 Oi, eu sou o Dravls.
 (Perdi minha conta anterior então tive que criar uma nova conta.)
@@ -17,7 +17,9 @@ Alexvsicontato@gmail.com
 ⚡Fato engraçado:
 Estou aprendendo Java somente com meu objetivo infantil de construir o maior servidor de Minecraft.
 
-[EN-US]
+---
+
+**[EN-US]**
 
 👋 Hi, I'm Dravls.
 (I lost my previous account so I had to create a new account.)
