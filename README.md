@@ -1,7 +1,6 @@
 **[PT-BR]**
 
 👋 Oi, eu sou o Vinicius.
-(Perdi minha conta anterior então tive que criar uma nova conta.)
 
 👀Interesses
 Tenhos muitos interesses na área de tecnologia, principalmente programação e criação de jogos.
@@ -22,7 +21,6 @@ Estou aprendendo Java somente com meu objetivo infantil de construir o maior ser
 **[EN-US]**
 
 👋 Hi, I'm Vinicius.
-(I lost my previous account so I had to create a new account.)
 
 👀Interests
 I have many interests in the technology area, mainly programming and creating games.
