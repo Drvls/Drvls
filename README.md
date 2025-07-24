@@ -1,37 +1,27 @@
-**[PT-BR]**
+# Alexsandro Vinicius — Desenvolvedor Java Jr
 
-👋 Oi, eu sou o Vinicius.
+## Sobre mim  
+Estudante de Engenharia de Software focado em Java backend, com experiência em projetos pessoais que aplicam JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Java Jr para aplicar meus conhecimentos, crescer na área e sair do sufoco do trampo atual.
 
-👀Interesses
-Tenhos muitos interesses na área de tecnologia, principalmente programação e criação de jogos.
+## O que estudo hoje  
+- Java 21 (avançado)  
+- JDBC puro e Spring Data JPA (início)  
+- SQL e modelagem relacional  
+- Desenvolvimento de APIs REST com Spring Boot  
+- Controle de versão com Git/GitHub  
 
-🌱Atualmente tenho estudado Java, tanto para web backend quanto para mobile e desktop.
-Futuramente como projeto pessoal pretendo focar em criação de jogos, aplicativos e ciber segurança.
+## Projetos em destaque  
+- CRUD completo em Java com MySQL usando DAO, enums, try-with-resources e validação de entrada  
+- Criação automática de banco e tabelas via código  
+- Projeto open source disponível no meu GitHub
 
-💞️Tenho interesse em colaborar com projetos em Java, seja com aplicativos mobile, API ou backend.
+## O que busco  
+Vaga de estágio ou desenvolvedor Java Jr para acelerar meu aprendizado na prática e contribuir com times que valorizem dedicação e vontade de crescer.
 
-📫Pode entrar em contato comigo através do seguinte email:
-Alexvsicontato@gmail.com
-
-⚡Fato engraçado:
-Estou aprendendo Java somente com meu objetivo infantil de construir o maior servidor de Minecraft.
+## Contato  
+📫 alexvsicontato@gmail.com  
 
 ---
 
-**[EN-US]**
-
-👋 Hi, I'm Vinicius.
-
-👀Interests
-I have many interests in the technology area, mainly programming and creating games.
-
-🌱I am currently training in Java, both for the web backend and for mobile and desktop.
-In the future, as a personal project, he intends to focus on creating games, applications and cybersecurity.
-
-💞️I'm interested in collaborating on Java projects, whether with mobile applications, API or backend.
-
-📫You can contact me via the following email:
-Alexvsicontato@gmail.com
-
-⚡Fun fact:
-I'm learning Java solely with my childhood goal of building the biggest Minecraft server.
+### Curiosidade  
+Tudo começou com um objetivo meio maluco: construir o maior servidor de Minecraft — e olha onde isso me trouxe: pra programar de verdade e buscar meu lugar no mercado.
