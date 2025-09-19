@@ -1,7 +1,7 @@
 # Alexsandro Vinicius — Desenvolvedor Jr
 
 ## Sobre mim  
-Estudante de Engenharia de Software focado em backend, com experiência em projetos pessoais que aplicam EntityFramework, JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Jr para aplicar meus conhecimentos, crescer na área e sair do sufoco do trampo atual.
+Estudante de Engenharia de Software focado em backend, com experiência em projetos pessoais que aplicam EntityFramework, JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Jr para aplicar meus conhecimentos, crescer na área e ser reconhecido pelo meu potencial.
 
 ## O que estudo hoje  
 - .NET 8.0
