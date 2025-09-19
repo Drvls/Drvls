@@ -1,13 +1,15 @@
-# Alexsandro Vinicius — Desenvolvedor Java Jr
+# Alexsandro Vinicius — Desenvolvedor Jr
 
 ## Sobre mim  
-Estudante de Engenharia de Software focado em Java backend, com experiência em projetos pessoais que aplicam JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Java Jr para aplicar meus conhecimentos, crescer na área e sair do sufoco do trampo atual.
+Estudante de Engenharia de Software focado em backend, com experiência em projetos pessoais que aplicam EntityFramework, JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Jr para aplicar meus conhecimentos, crescer na área e sair do sufoco do trampo atual.
 
 ## O que estudo hoje  
-- Java 21 (avançado)  
-- JDBC puro e Spring Data JPA (início)  
+- .NET 8.0
+- Entity Framework
+- Java 21 (intermediário)  
+- JDBC puro e Spring Data JPA (iniciante)  
 - SQL e modelagem relacional  
-- Desenvolvimento de APIs REST com Spring Boot  
+- Desenvolvimento de APIs REST com Spring Boot e EntityFramework
 - Controle de versão com Git/GitHub  
 
 ## Projetos em destaque  
@@ -16,7 +18,7 @@ Estudante de Engenharia de Software focado em Java backend, com experiência em 
 - Projeto open source disponível no meu GitHub
 
 ## O que busco  
-Vaga de estágio ou desenvolvedor Java Jr para acelerar meu aprendizado na prática e contribuir com times que valorizem dedicação e vontade de crescer.
+Vaga de estágio ou desenvolvedor Jr para acelerar meu aprendizado na prática e contribuir com times que valorizem dedicação e vontade de crescer.
 
 ## Contato  
 📫 alexvsicontato@gmail.com  
