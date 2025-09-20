@@ -13,6 +13,8 @@ Estudante de Engenharia de Software focado em backend, com experiência em proje
 - Controle de versão com Git/GitHub  
 
 ## Projetos em destaque  
+- TODO List em .NET com EntityFrameworkCore, MySQL e organização em Repository Pattern
+- Minimal API em .NET, utilizando EntityFrameworkCore, MySQL e JWT
 - CRUD completo em Java com MySQL usando DAO, enums, try-with-resources e validação de entrada  
 - Criação automática de banco e tabelas via código  
 - Projeto open source disponível no meu GitHub
