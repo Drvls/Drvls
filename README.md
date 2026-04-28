@@ -14,10 +14,21 @@ Sou desenvolvedor backend e game developer em formação, com foco em construir 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Backend:** Java 21, JDBC, .NET 8, Entity Framework Core, APIs REST
-**Game Dev:** Unity 2D / 3D, C#
-**Banco de dados:** MySQL, modelagem relacional
-**Ferramentas:** Git, GitHub
+**Backend**
+- Java 21, JDBC
+- .NET 8, Entity Framework Core
+- APIs REST
+
+**Game Dev**
+- Unity 2D / 3D
+- C#
+
+**Banco de dados**
+- MySQL
+- Modelagem relacional
+
+**Ferramentas**
+- Git / GitHub
 
 ## Projetos em destaque
 
