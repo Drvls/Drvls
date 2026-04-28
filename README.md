@@ -1,31 +1,38 @@
-# Alexsandro Vinicius — Desenvolvedor Jr
+# Olá, eu sou Alexsandro Vinicius 👋
+_Desenvolvedor Backend · Game Developer_
 
-## Sobre mim  
-Estudante de Engenharia de Software focado em backend, com experiência em projetos pessoais que aplicam EntityFramework, JDBC, MySQL e boas práticas de código. Buscando uma vaga de Desenvolvedor Jr para aplicar meus conhecimentos, crescer na área e ser reconhecido pelo meu potencial.
+## Sobre mim
 
-## O que estudo hoje  
-- .NET 8.0
-- Entity Framework
-- Java 21 (intermediário)  
-- JDBC puro e Spring Data JPA (iniciante)  
-- SQL e modelagem relacional  
-- Desenvolvimento de APIs REST com Spring Boot e EntityFramework
-- Controle de versão com Git/GitHub  
+Sou desenvolvedor backend e game developer em formação, com foco em construir projetos reais que me forcem a aprender de verdade. Comecei a programar com um objetivo maluco, construir o maior servidor de Minecraft, e isso me levou a estudar backend com Java e .NET, além de desenvolvimento de jogos com Unity.
 
-## Projetos em destaque  
-- TODO List em .NET com EntityFrameworkCore, MySQL e organização em Repository Pattern
-- Minimal API em .NET, utilizando EntityFrameworkCore, MySQL e JWT
-- CRUD completo em Java com MySQL usando DAO, enums, try-with-resources e validação de entrada  
-- Criação automática de banco e tabelas via código  
-- Projeto open source disponível no meu GitHub
+## Stack atual
 
-## O que busco  
-Vaga de estágio ou desenvolvedor Jr para acelerar meu aprendizado na prática e contribuir com times que valorizem dedicação e vontade de crescer.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Contato  
-📫 alexvsicontato@gmail.com  
+**Backend:** Java 21, JDBC, .NET 8, Entity Framework Core, APIs REST
+**Game Dev:** Unity 2D / 3D, C#
+**Banco de dados:** MySQL, modelagem relacional
+**Ferramentas:** Git, GitHub
+
+## Projetos em destaque
+
+### Minimal API com JWT — .NET 8
+API REST com autenticação JWT, Entity Framework Core, MySQL e Repository Pattern.
+
+### CRUD Java com MySQL
+Implementação completa com DAO pattern, enums, try-with-resources e criação automática de banco via código.
 
 ---
 
-### Curiosidade  
-Tudo começou com um objetivo meio maluco: construir o maior servidor de Minecraft — e olha onde isso me trouxe: pra programar de verdade e buscar meu lugar no mercado.
+## O que busco
+
+Oportunidade de posição júnior ou superior em backend para aplicar meus conhecimentos em projetos reais e crescer junto com um time.
+
+## Contato
+
+📫 Alexvsicontato@gmail.com
